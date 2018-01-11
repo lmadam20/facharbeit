@@ -1,0 +1,13 @@
+doc_tmp/*
+private/*
+software/z80_emulator/build/*
+software/z80_emulator/Debug/*
+*.bin
+software/z80_emulator/doc_priv/*
+software/java-tools/rom-packer/bin/*
+software/java-tools/rom-packer/*.jar
+software/z80_emulator/SDL2/*
+software/z80_emulator/SDL2_ttf/*
+software/z80_emulator/include-sdl/*
+software/z80_emulator/README-SDL*.txt
+software/z80_emulator/font/*

@@ -1,0 +1,2 @@
+unoconv -f pdf *.odt
+
